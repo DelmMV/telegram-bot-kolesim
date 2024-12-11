@@ -2,9 +2,9 @@
   "name": "kolesim",
   "version": "0.0.1",
   "description": "TG bot kolesim",
-  "main": "index.js",
+  "main": "kolesim.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node kolesim.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
